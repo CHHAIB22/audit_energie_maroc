@@ -1,4 +1,0 @@
--- Données de démonstration (mot de passe en clair = "demo123" haché côté app au register)
--- Ce seed insère des audits de démo pour l'utilisateur de test si présent.
--- Pour générer un utilisateur, utilisez plutôt le formulaire d'inscription.
--- (Laissé minimal car les hash de mot de passe sont générés par l'application.)

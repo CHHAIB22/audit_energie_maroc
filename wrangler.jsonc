@@ -8,9 +8,9 @@
   ],
   "d1_databases": [
     {
-      "binding": "DB",
-      "database_name": "webapp-production",
-      "database_id": "local-dev-placeholder"
+      "binding": "audit_energie_maroc_db",
+      "database_name": "audit-energie-maroc-db",
+      "database_id": "8dda547d-447c-4229-909c-40d78d2791bf"
     }
   ],
   "vars": {

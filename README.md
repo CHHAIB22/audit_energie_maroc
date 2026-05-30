@@ -1,5 +1,5 @@
 # AuditÉnergie Maroc — Energy Audit Dashboard
-
+link = https://audit-energie-maroc.pages.dev
 ## Vue d'ensemble
 - **Nom** : AuditÉnergie Maroc
 - **Objectif** : Outil d'audit énergétique des bâtiments permettant de calculer la classe DPE (Diagnostic de Performance Énergétique), d'estimer les émissions de CO₂, de suivre un historique d'audits et d'obtenir des recommandations personnalisées.
